@@ -1,7 +1,7 @@
 body {background-image: url(../img/be2a940c4ac312bf5abc0aa9677749de.jpg);}
 
 h1 { color: #000d33;
-	margin-left: 80px ;
+	margin-left: 500px ;
  }
 
 p {color:  #00804d;
@@ -21,5 +21,8 @@ img {margin-left: 120px}
 	margin-top: 15px;
 	margin-left: 30px;
 	margin-right: 30px;
-	size: 40px;
+}
+
+#nav a {
+	color: #e60099;
 }
