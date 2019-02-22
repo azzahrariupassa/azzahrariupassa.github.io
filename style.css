@@ -1,0 +1,25 @@
+body {background-image: url(../img/be2a940c4ac312bf5abc0aa9677749de.jpg);}
+
+h1 { color: #000d33;
+	margin-left: 80px ;
+ }
+
+p {color:  #00804d;
+	margin-left: 50px
+}
+
+ol {margin-left: 60px}
+
+h2 {color: #990066;
+	margin-left: 45px
+}
+
+img {margin-left: 120px}
+
+#nav{
+	border: double;
+	margin-top: 15px;
+	margin-left: 30px;
+	margin-right: 30px;
+	size: 40px;
+}
