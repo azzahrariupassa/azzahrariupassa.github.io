@@ -1,0 +1,13 @@
+
+body {background-color: #eee6ff}
+
+h2 {color: #660080}
+
+h3 {color: black}
+
+p {color: blue }
+table, th, td {
+  border: 1px solid black;
+  color: #cc00ff
+}
+
